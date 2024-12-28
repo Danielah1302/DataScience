@@ -1,2 +1,2 @@
 # DataScience
-Compilation of Data science and Data Vizualization projects
+Compilation of Data science and Data Visualization projects
